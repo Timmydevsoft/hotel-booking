@@ -1,0 +1,7 @@
+node_modules
+.atom
+.snapshots
+.git
+src
+public
+*.md
